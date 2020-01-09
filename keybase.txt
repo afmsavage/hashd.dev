@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pantsme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hashd.dev
+  * I am pantsme (https://keybase.io/pantsme) on keybase.
+  * I have a public key ASBnxEczXU7QDH0Gqt8sKDHXaBtg4yVHfzNPx6yyXKWcSQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012067c447335d4ed00c7d06aadf2c2831d7681b60e325477f334fc7acb25ca59c490a",
+      "host": "keybase.io",
+      "kid": "012067c447335d4ed00c7d06aadf2c2831d7681b60e325477f334fc7acb25ca59c490a",
+      "uid": "606c0b66cb8cb2343be61fdc6c21e919",
+      "username": "pantsme"
+    },
+    "merkle_root": {
+      "ctime": 1578595120,
+      "hash": "681ea4210e6ebfa7e88c96aa145833c5ce28816550f351c3cd84ea370fa788ac9866290031999b97ea630f3dc772a7d4473c4a0a2457f233e1f66995707cfabd",
+      "hash_meta": "8f8cc4767558eba3c77b933476e32afc6ab49aab0d0734d93085bf0da02451d5",
+      "seqno": 14158147
+    },
+    "service": {
+      "entropy": "pxSuqlOi3C+k3FBsDJoAUImx",
+      "hostname": "hashd.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1578595123,
+  "expire_in": 504576000,
+  "prev": "84dfb61b5a50fe8a657c9d3a58429207793fcc17ab346c9a307b24ae9e1cbb9f",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ8RHM11O0Ax9BqrfLCgx12gbYOMlR38zT8esslylnEkKp3BheWxvYWTESpcCKsQghN+2G1pQ/oplfJ06WEKSB3k/zBerNGyaMHskrp4cu5/EIHTGSsLKSHJl1M4Bc9Gkdf25NkyYBLUCrz2dwO2dtRi3AgHCo3NpZ8RAyQkjFic0ad1IAMhxmuNM8i3RUgukxmhsZEa+Xc6Ikd0ngAt1Tw0Rv/BYlBtRPFW5XXVvzorXv9QXmGEnkPjiDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIa8BWj+dtnG9p22iod9Ze1P7iztHNAqCoKDnUKCvQ5io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pantsme
+
+==================================================================
